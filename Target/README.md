@@ -10,6 +10,8 @@ This system is built using:
 - Smart Contract (Rust + Soroban SDK)
 - Stellar Blockchain (Testnet)
 - Simple Frontend (HTML & JavaScript)
+### 🎟️ Tampilan Frontend
+![Frontend](Transaction e062787627f21113012841858dbcc22dabef8f35c74592a89be443382105d872.png)
 - QR Code for ticket validation
 
 ---
