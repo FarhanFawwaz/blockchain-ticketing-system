@@ -11,7 +11,7 @@ This system is built using:
 - Stellar Blockchain (Testnet)
 - Simple Frontend (HTML & JavaScript)
 ### 🎟️ Tampilan Frontend
-![Frontend](Transaction e062787627f21113012841858dbcc22dabef8f35c74592a89be443382105d872.png)
+![Frontend](tampilan_web_awal.png)
 - QR Code for ticket validation
 
 ---
