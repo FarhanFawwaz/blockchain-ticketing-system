@@ -15,7 +15,6 @@ Frontend<img width="1903" height="1056" alt="tampilan_simulasi_pesan_tiket" src=
 
 - QR Code for ticket validation
 QR Generate <img width="740" height="752" alt="Screenshot 2026-04-15 115804" src="https://github.com/user-attachments/assets/72710577-fc4a-43e7-8d6f-69cc1b3a3ae7" />
-![Uploading Screenshot 2026-04-15 115804.png…]()
 
 ---
 
